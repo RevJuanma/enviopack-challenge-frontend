@@ -59,9 +59,8 @@ Este proyecto es una aplicación web en React que simula una tienda e-commerce. 
 
 1. **Login**:
 
-   - Barra de navegación con links al catálogo y carrito
-   - Listado de productos con paginación
-   - Filtrado y ordenamiento de productos
+   - Ingresar usuario (juanignacio)
+   - Ingresar password (abc123)
 
 2. **Home (Catálogo)**:
 
