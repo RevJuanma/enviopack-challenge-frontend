@@ -1,0 +1,20 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100%;
+  padding: 50px;
+  padding-inline: 200px;
+}
+
+@media (max-width: 1074px) {
+  .main-content {
+    padding-inline: 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  .main-content {
+    padding-inline: 50px;
+  }
+}
